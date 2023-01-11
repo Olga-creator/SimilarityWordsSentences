@@ -1,1 +1,2 @@
-print("Git is awesome!")
+weather = input("What the weather like today? ")
+print(weather)
