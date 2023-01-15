@@ -48,38 +48,18 @@ Learn more about [forking](https://help.github.com/en/github/getting-started-wit
 
 ## How to use project <a name="paragraph33"></a>
 
-When the program is started, the main menu will be displayed in order for a user to choose from the options provided. 
+When the program is started, it will find similarities between words and sentences. 
+The similarity is shown as a floating decimal from 0 to 1, where 0 indicates 'most dissimilar' and the strength of the similarity increases all the way up to 1.
 
-This program will help to get:
 
-1) Overview of all warehouse items
+1) Similarity between words
 
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20va.png" title="Code button" width="500"/>
+<br><img src="https://user-images.githubusercontent.com/117369262/212552178-5a1aa00d-80cd-4e95-b502-bf99d56e0631.png" title="Code button" width="1000"/>
 
-2) Capture stock
+2) Similarity between sentences
  
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20a.png" title="Code button" width="500"/>
+<br><img src="https://user-images.githubusercontent.com/117369262/212552165-83a408ce-5d82-4c00-9ada-8b28b021cd74.png" title="Code button" width="500"/>
 
-
-3) Restock items
-
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20r.png" title="Code button" width="500"/>
-
-4) Search products by code
-
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20s.png" title="Code button" width="500"/>
-
-5) Overview of the value of each item in stock
-
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20vv.png" title="Code button" width="500"/>
-
-6) Find a stock item with the highest quantities
-
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20h.png" title="Code button" width="500"/>
-
-7) Exit
-
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20e.png" title="Code button" width="500"/>
 
 ## Contact <a name="paragraph3"></a>
 💃 **Olga Paksevatkina**
