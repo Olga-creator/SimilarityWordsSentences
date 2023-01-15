@@ -77,11 +77,3 @@ is different from the model 'en_core_web_md'
 Answer: Running the example file with model 'en_core_web_md' gives significantly higher similarity than when file 
 is run using the simpler language model ‘en_core_web_sm’. The difference is in the accuracy of the predictions.
 """
-
-# TODO - Host your solution on a Git host such as GitLab or GitHub.
-# Remember to exclude any venv or virtualenv files from your repo.
-# Add the link for your remote Git repo to a text file named semantic_similarity.txt
-
-
-
-
